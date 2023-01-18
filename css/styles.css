@@ -1,0 +1,16 @@
+h1{
+  background-color: skyblue;
+}
+#additionalMe{
+  background-color: yellow;
+}
+.mySkill{
+  background-color: lightblue;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 20%;
+  border-width: 7px;
+  color: purple;
+}
